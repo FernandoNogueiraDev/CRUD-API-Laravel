@@ -49,8 +49,8 @@
       <th scope="col">Telefone</th>
       <th scope="col">assunto</th>
       <th scope="col">mensagem</th>
-      <th scope="col">prerigo</th>
-      <th scope="col">troca doida</th>
+      <th scope="col">excluir</th>
+      <th scope="col">editar</th>
     </tr>
   </thead>
   <tbody>
